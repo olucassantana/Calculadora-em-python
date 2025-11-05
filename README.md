@@ -1,6 +1,7 @@
 
 
 Recursos incluídos:
+
 Interface gráfica limpa e moderna (modo escuro)
 
 Operações básicas: + - * / %
