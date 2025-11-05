@@ -1,7 +1,8 @@
 
 
-✅ Recursos incluídos:
+Recursos incluídos:
 Interface gráfica limpa e moderna (modo escuro)
+
 Operações básicas: + - * / %
 Parênteses, ponto decimal e potência (x²)
 Raiz quadrada (√)
