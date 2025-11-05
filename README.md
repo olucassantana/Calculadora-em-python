@@ -1,3 +1,16 @@
+
+
+✅ Recursos incluídos:
+Interface gráfica limpa e moderna (modo escuro)
+Operações básicas: + - * / %
+Parênteses, ponto decimal e potência (x²)
+Raiz quadrada (√)
+Constante π (pi)
+Botão de apagar (⌫)
+Botão “C” para limpar tudo
+Avaliação segura usando apenas funções do math
+Layout adaptável (redimensionamento automático das células)
+
 import tkinter as tk
 from tkinter import messagebox
 import math
